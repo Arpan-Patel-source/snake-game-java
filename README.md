@@ -16,9 +16,9 @@ A classic Snake Game built using Java Swing with keyboard controls and real-time
 ## How to Run
 1. Download the project
 2. Compile:
-   javac Snake_Game.java
+   javac SnakeGame.java
 3. Run:
-   java Snake_Game
+   java SnakeGame
 
 ## Controls
 Arrow Keys → Move snake
