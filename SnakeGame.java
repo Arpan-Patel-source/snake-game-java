@@ -147,8 +147,8 @@ class JPDemo extends JPanel implements ActionListener, KeyListener{
 		}
 	}
 }
-class Snake_Game{
-	public static void main(String ar[])throws SecurityException
+class SnakeGame{
+	public static void main(String ar[])throws Exception
 	{
 		FDemo f = new FDemo();
 		f.setVisible(true);
